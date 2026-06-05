@@ -4,6 +4,9 @@ A production-ready React application showcasing responsive design, secure JWT au
 
 **Live Demo:** [https://products-app-bay.vercel.app/](https://products-app-bay.vercel.app/)
 
+
+**Postman collection:** [https://www.postman.com/ikhszy/dummy-json/collection/owq60qr/products?sideView=agentMode](https://www.postman.com/ikhszy/dummy-json/collection/owq60qr/products?sideView=agentMode)
+
 ## Tech Stack Used
 * **Framework:** React (Vite environment configuration)
 * **Styling Engine:** Tailwind CSS (Fully responsive layout models)
