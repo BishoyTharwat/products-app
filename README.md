@@ -2,6 +2,8 @@
 
 A production-ready React application showcasing responsive design, secure JWT authentication workflows, state parameters caching, searching criteria, dynamic routing configurations via view steps, and pagination.
 
+**Live Demo:** [https://products-app-bay.vercel.app/](https://products-app-bay.vercel.app/)
+
 ## Tech Stack Used
 * **Framework:** React (Vite environment configuration)
 * **Styling Engine:** Tailwind CSS (Fully responsive layout models)
